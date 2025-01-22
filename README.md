@@ -1,2 +1,2 @@
 # FirstRepository
-print("CodeWithShahrukh")
+CodeWithShahrukh
